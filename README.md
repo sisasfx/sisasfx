@@ -8,3 +8,11 @@
     - Node.js
     - Flask
     - HTML & CSS
+
+#### Which are my soft skills?
+    - Perfect teammate
+    - Passionate
+    - Easy to engange with
+    - Curiosity is a skill!
+    - Pacient...because Rome wasn't built in two days
+    - Good leader and even better soldier
