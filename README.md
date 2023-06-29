@@ -12,7 +12,7 @@
 #### Which are my soft skills?
     - Perfect teammate
     - Passionate
-    - Easy to engange with
+    - Easy to engage with
     - Curiosity is a skill!
     - Pacient...because Rome wasn't built in two days
     - Good leader and even better soldier
